@@ -2,6 +2,7 @@
 # NetworkFundamentals
 
 ** DNS **
+
 ** GSLB **
 
 ** MAC Address ( media access controls - 48 bits , 1st 24 bits of vendor code)  is a physical address. Is coded by manufacturer and is a burn in address **
