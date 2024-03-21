@@ -13,3 +13,14 @@
 
 ** IPV6 ** -- made of 128 bits ** -- written using hexadecimal , group of 4 called quartet , has 8 of quartets in all 
 
+** NIC ( network interface card ) - 2 types - internal and external **
+
+** Ethernet switch & flooding ** //TODO more 
+
+** router & ip routing table  ** routing protocol (ospf) ** Connects two n/w of  switches
+    ** internet routing table is about 800K routes ***
+    ** route with longest bits in the subnet mask **
+    ** switches makes forwarding decisions based on  mac addresses **
+    ** Routers makes forwarding decisions based on ip addresses **
+    ** Wireless access points or APs {access points}  & roaming **
+
