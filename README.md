@@ -24,3 +24,12 @@
     ** Routers makes forwarding decisions based on ip addresses **
     ** Wireless access points or APs {access points}  & roaming **
 
+
+** twisted pair cabling ** twisted to avoid electro magnetic interference
+    ** unshielded twisted pair **
+    ** shielded twisted pair **
+    ** Plenum cable and RJ45 connectors ** T568B coding , which pin goes where ??
+    
+
+   
+
