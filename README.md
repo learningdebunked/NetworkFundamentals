@@ -74,6 +74,7 @@
                         ** Neighbor discover Protocol ( NDP )
                         ** EUI 
            ** DORA ( Discover Offer Request Acknowledgment ) 
+           
            <img width="909" alt="Screenshot 2024-03-25 at 8 41 43 AM" src="https://github.com/learningdebunked/NetworkFundamentals/assets/7702406/c8246e27-6839-4d4e-b18e-560975314c76">
            
 
