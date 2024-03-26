@@ -100,11 +100,12 @@
 
          **  NAT ( N/w Address Translation ) **
          
--- We are out of IPV4 
--- How do we use IPV4 , this is possible through NAT
--- one set of addresses internal , inside of our networks and one or more outside for Internet through a NAT enabled router that routes to a ratable ip address ( router maintains a NAT Translation table , this is called Dynamic NAT)
--- Private IP Addresses never make it to public/internet
--- other type of NAT is PAT ( Port address translation ) , multiple inside to single global 
+- We are out of IPV4
+- How do we use IPV4 , this is possible through NAT
+- one set of addresses internal , inside of our networks and one or more outside for Internet through a NAT enabled router that routes to a ratable ip address ( router maintains a NAT Translation table , this is called Dynamic NAT)
+-  Private IP Addresses never make it to public/internet
+-   ther type of NAT is PAT ( Port address translation ) , multiple inside to single global , keeps the port numbers as well for mapping returning requests from internet
+-   fermal
 
 
            
