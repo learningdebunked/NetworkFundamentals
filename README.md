@@ -96,7 +96,24 @@
 
            - routers route based on IP Address and not on DNS Names
            - Domain name system
+
+
+         **  NAT ( N/w Address Translation ) **
+         
+-- We are out of IPV4 
+-- How do we use IPV4 , this is possible through NAT
+-- one set of addresses internal , inside of our networks and one or more outside for Internet through a NAT enabled router that routes to a ratable ip address ( router maintains a NAT Translation table , this is called Dynamic NAT)
+-- Private IP Addresses never make it to public/internet
+-- other type of NAT is PAT ( Port address translation ) , multiple inside to single global 
+
+
            
+<img width="758" alt="Screenshot 2024-03-26 at 12 57 59 PM" src="https://github.com/learningdebunked/NetworkFundamentals/assets/7702406/3f882f91-a459-42d5-a9b9-4154358e17df">
+
+
 
     
+    <img width="758" alt="Screenshot 2024-03-26 at 12 59 22 PM" src="https://github.com/learningdebunked/NetworkFundamentals/assets/7702406/f0a4c0ad-2882-4af9-9b2f-96ab3c26917c">
+
     
+
