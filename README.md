@@ -1,4 +1,4 @@
-
+<img width="730" alt="Screenshot 2024-03-26 at 12 54 43 PM" src="https://github.com/learningdebunked/NetworkFundamentals/assets/7702406/c389865c-8d20-419d-a2b8-08511fae07c3">
 # NetworkFundamentals
 
 ** DNS **
@@ -76,6 +76,26 @@
            ** DORA ( Discover Offer Request Acknowledgment ) 
            
            <img width="909" alt="Screenshot 2024-03-25 at 8 41 43 AM" src="https://github.com/learningdebunked/NetworkFundamentals/assets/7702406/c8246e27-6839-4d4e-b18e-560975314c76">
+
+           - In the offer stage , DHCP sends the IP address ofthe DHCP server 
+           - After this the client requests this corresponding Server for a IP 
+           - DHCP acknowledges the client with IP Address /Subnet mask and gateway
+           -- DHCP Relay agent //TODO , when there is a router in the middle we have to do this
+           --Stateful DHCP V6 vs Stateless DHCP V6 Servers
+           -- Stateful ( prefix /length , host and dns server's ipv6 address )
+           - stateless ( prefix length {gets n/w info from router} ) through NDP ( n/w discover protocol  , using a process call EUI-64)
+
+           -- TODO EUI & NDP
+
+
+           ** DNS OVERVIEW **
+           
+<img width="716" alt="Screenshot 2024-03-26 at 12 53 44 PM" src="https://github.com/learningdebunked/NetworkFundamentals/assets/7702406/8996a978-267d-41b4-bbed-37f8a8770203">
+
+<img width="730" alt="Screenshot 2024-03-26 at 12 54 50 PM" src="https://github.com/learningdebunked/NetworkFundamentals/assets/7702406/9ffdfe2f-72c2-49a0-b582-b6e1d2d57ba4">
+
+           - routers route based on IP Address and not on DNS Names
+           - Domain name system
            
 
     
