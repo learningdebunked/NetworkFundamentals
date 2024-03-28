@@ -113,8 +113,36 @@
 
 
 
-    
-    <img width="758" alt="Screenshot 2024-03-26 at 12 59 22 PM" src="https://github.com/learningdebunked/NetworkFundamentals/assets/7702406/f0a4c0ad-2882-4af9-9b2f-96ab3c26917c">
+<img width="758" alt="Screenshot 2024-03-26 at 12 59 22 PM" src="https://github.com/learningdebunked/NetworkFundamentals/assets/7702406/f0a4c0ad-2882-4af9-9b2f-96ab3c26917c">
+
+NAT ( overcomes problems with using IPv4 when we have run out )
+  - Convert the private IP address to Public IP Addresss via NAT Mappings
+  - inside local ( refers to a device inside of n/w)  //TODO
+  - inside global //TODO
+  - Dynamic NAT ( multiple inside addresses to multiple global addresses )
+  - PAT ( Port Address Translation ) via femoral or private ip address //TODO
+
+
+NTP ( Network Time Protocol ) 
+- Devices should agree on time
+- Digital certificates expire on a time ,so need accurate time , for these  reasons diff devices on N/w have to agree with Time
+- Internet based time sources ( atomic clocks on internet ) , caesium 133 is used to keep track of time
+- 9Billion osciallations of Caesium 133 = 1s
+- NTP uses UDP 123
+- Servers on internet communicate with atomic clock and learns Time to share this time with devices on N/W
+- Stratum number ( lower number is most believable is the clock , atomic clocks have 0 )
+- internet servers have stratum number 1
+- if stratum number ever reaches 16 then time source is invalid
+- Naval observatory is official keeper of time
+
+QOS ( Quality of Service )
+- When we have n/w congestion use this service called QOS
+- QOS is managed unfairness , doing it intentionally
+- Classify and mark for forwarding or dropping decision , they don't alter the treatment of traffic
+- Queuing , the router / switch stores the traffic in a Queue
+- 
+- 
+  - 
 
     
 
