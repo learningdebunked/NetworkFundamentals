@@ -142,7 +142,15 @@ QOS ( Quality of Service )
 - Queuing , the router / switch stores the traffic in a Queue
 - 
 - 
-  - 
+
+Mesh Wireless LAN
+- Mesh access points need not be connected to wired infrastructure
+- 2.4Ghz band and 5GHz band
+- Channel 14 is only allowed in Japan
+- 5Mhz b/w channels
+- 12MHz b/w  13 & 14 channels
+- We need to tell acess point to access a channel
+- 
 
     
 
