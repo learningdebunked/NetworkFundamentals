@@ -171,5 +171,25 @@ Software Defined Networking (SDN)
 - OpenFlow protocol for SDN
 - SDN Controller communication happens through NBI ( North Bound interfaces ) , these NBI sit above SDN Controller
 - 
-    
+
+Virtualization
+- Hypervisor - manage virtual machines on a physical server
+- 2 types of hypervisor
+  Type1 :installed on physical server without any OS
+  Type2: Installed on top of existing OS , example VMWares Fusion
+  - Containers share the same underlying instance of OS reducing the storage needed on physical server
+- we can even virtualize network components
+  
+
+  VPN ( Virtual private network )
+  - connection b/w our office and cloud
+  - Data is secured
+ 
+  Wireless standards
+  - 5G ( cellular technology, 20GB/s theoritical maximum )  and Wifi 6 ( wireless lan standard)
+  - wifi 6 supports both 2.4ghz and 5ghz 9.6Gpbs throughput
+  - 1024 QAM , 10 bits with a single wave form compared to WIFI 5 ( 8 bits with single wave form )
+  - OFDMA - target wait time , results in less latency
+  - BSS coloring ( Basic service set )
+  - 
 
