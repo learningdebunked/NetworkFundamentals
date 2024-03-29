@@ -147,10 +147,29 @@ Mesh Wireless LAN
 - Mesh access points need not be connected to wired infrastructure
 - 2.4Ghz band and 5GHz band
 - Channel 14 is only allowed in Japan
-- 5Mhz b/w channels
+- 5Mhz b/w channels //TODO how does it work?
 - 12MHz b/w  13 & 14 channels
 - We need to tell acess point to access a channel
+- channel bonding , bonding 4 of 20hz channels //TODO
+- 2.4Ghz , goes through walls and longer range
+- 5 Ghz //faster range
+
+Types of wifi antenna
+- Omni directional antenna , transmit radio waves in all directions
+- MU-MINO ( multiple user , multiple input and multiple output )
+- parabolic antenna ( if two buildings have to transmit ). A directional antenna (e.g. a parabolic antenna) is appropriate for interconnecting nearby buildings, because it focuses its energy in a specific direction (i.e. towards the antenna on the other building), as opposed to sending its energy in all directions, like an omnidirectional antenna does.
 - 
 
+Ad hoc wireless LAN does not use a wireless access point (AP). Instead, two wireless clients communicate directly between themselves.
+A mesh wireless LAN contains access points (APs) that are not all hardwired into a switch. Instead, one AP will receive a transmission from another AP and then regenerate that transmission.
+A point-to-point wireless LAN typically consists of two wireless antennas pointed directly towards one another. As an example, this type of topology might be used to wireless link two nearby buildings.
+
+
+Software Defined Networking (SDN) 
+- Express intent to SDN controller and controller will execute the commands on routers and switches
+- South bound interfaces {SBI}( since devices are below the controller )
+- OpenFlow protocol for SDN
+- SDN Controller communication happens through NBI ( North Bound interfaces ) , these NBI sit above SDN Controller
+- 
     
 
