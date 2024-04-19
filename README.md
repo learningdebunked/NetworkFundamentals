@@ -193,3 +193,7 @@ Virtualization
   - BSS coloring ( Basic service set )
   - 
 
+**Internet traffic routing policies **
+
+![image](https://github.com/learningdebunked/NetworkFundamentals/assets/7702406/17caae56-021d-4a9c-9f71-51e0b6e997ef)
+
