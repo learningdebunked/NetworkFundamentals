@@ -197,3 +197,18 @@ Virtualization
 
 ![image](https://github.com/learningdebunked/NetworkFundamentals/assets/7702406/17caae56-021d-4a9c-9f71-51e0b6e997ef)
 
+These three Linux concepts are a must-know for a DevOps engineer.
+
+I did my best to explain these with illustrations and practical examples in my newsletter.
+
+Here you go!
+
+- 𝗟𝗶𝗻𝘂𝘅 𝗖𝗮𝗽𝗮𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀: Used in contianers & k8s Pods
+↳ https://lnkd.in/gfuWpEKz
+
+- 𝗟𝗶𝗻𝘂𝘅 𝗦𝘆𝘀𝗰𝗮𝗹𝗹𝘀: (fork vs exec - the popular interview question)
+↳ https://lnkd.in/gKNd-tf6
+
+- 𝗗𝗲𝗯𝘂𝗴𝗴𝗶𝗻𝗴 𝗦𝘆𝘀𝗰𝗮𝗹𝗹𝘀: (Must know concept)
+↳ https://lnkd.in/gSFKiN5g
+
